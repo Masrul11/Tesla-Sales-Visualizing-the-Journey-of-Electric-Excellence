@@ -10,9 +10,7 @@ Tools Used: Python, Google Colab, Pandas, NumPy, Seaborn, Matplotlib, Plotly
 
 Team Members:
 
-Vaishnavi Mada
-
-Jarred Carrol
+Masrul Akhand
 
 Srujani Mareddy
 
